@@ -1,0 +1,1 @@
+call supp_ratings()
